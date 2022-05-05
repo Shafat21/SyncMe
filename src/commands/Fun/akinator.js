@@ -1,6 +1,6 @@
 // Dependencies
 const	Command = require('../../structures/Command.js'),
-		akinator = require('discord.js-akinator');
+		akinator = require('djs-akinator');
 
 /**
  * Akinator command
@@ -14,6 +14,7 @@ class Akinator extends Command {
 	constructor(bot) {
 		super(bot, {
 			name: 'akinator',
+			aliases: ['aki'],
 			dirname: __dirname,
 			botPermissions: ['SEND_MESSAGES', 'EMBED_LINKS'],
 			description: 'Play with akinator and it will guess your character.',
