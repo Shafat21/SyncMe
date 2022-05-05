@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Pings a minecraft for information.",
+  "USAGE": "mc <IP> [Port]",
+  "FETCHING": "{{EMOJI}} Fetching {{ITEM}} server info...",
+  "TITLE": "Server Status",
+  "IP": "<:enable:866599434866786324> Server IP:",
+  "VERSION": "<:icons_view:860123644398534676> Server Version:",
+  "DESC": "<:icons_quotes:860123643887091723> Description:",
+  "PLAYERS": "<:icons_defaultperms:866943907698180137> Online Players"
+}

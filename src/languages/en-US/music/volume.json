@@ -1,0 +1,7 @@
+{
+  "DESCRIPTION": "Changes the volume of the song",
+  "USAGE": "volume <Number>",
+  "CURRENT": "<:icons_speaker:860133545544908802> The current volume is: **{{NUM}}%**.",
+  "UPDATED": "<:icons_speaker:860133545544908802> Player sound set to **{{NUM}}%**.",
+  "TOO_HIGH": "Please input a number between 0 and 150."
+}

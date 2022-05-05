@@ -1,0 +1,6 @@
+{
+  "DESCRIPTION": "Get support on the bot.",
+  "USAGE": "support",
+  "TITLE": "{{USER}} support",
+  "DESC": "<:greendot:900352597528051752> **Our Server:**  [Support Server]({{SUPPORT}})\n <:greendot:900352597528051752> **Our website:**  [Website](https://corddj.com)"
+}

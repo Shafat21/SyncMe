@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Get information on a twitch account.",
+  "USAGE": "twitch <user>",
+  "BIO": "<:icons_quotes:860123643887091723> Biography: ",
+  "NO_BIO": "<:icons_quotes:860123643887091723> This user doesn't have a biography.",
+  "TOTAL": "<:icons_view:860123644398534676> Total Views: ",
+  "FOLLOWERS": "<:icons_friends:861852632767528970> Followers: ",
+  "NOT_FOUND": "Twitch user not found.",
+  "STREAMING": "**<:icons_stream:860123644453715978> {{TITLE}}** for {{NUM}} viewers"
+}

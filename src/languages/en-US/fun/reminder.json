@@ -1,0 +1,9 @@
+{
+  "DESCRIPTION": "Message Link:",
+  "USAGE": "reminder <time> <information>",
+  "MESSAGE": "<:icons_pin:859388130598715392> I'll remind you about `{{INFO}}` in about <:icons_reminder:859388128364199946> {{TIME}}.",
+  "TITLE": "Reminder",
+  "FOOTER": "Reminder from {{TIME}} ago.",
+  "RESPONSE": "\n**<:icons_reminder:859388128364199946> REMINDER:**\n {USER} your reminder: {{INFO}}",
+  "MSG_LINK": "Message link"
+}

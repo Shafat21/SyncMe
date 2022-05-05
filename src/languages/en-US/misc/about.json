@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Information about me.",
+  "USAGE": "about",
+  "TITLE": "About",
+  "DESC": "<:greendot:900352597528051752> [Website](https://corddj.com)\n<:greendot:900352597528051752> [Invite Link]({{INVITE}})\n<:greendot:900352597528051752> [Bot Support Server]({{SERVER}})\n\n<:SyncMe:908671315014197278> {{USERNAME}} has a wide variety of commands such as:  \n<:icons_text3:875985515948679208> Fun [8]\n<:icons_text6:920260975112888330> Misc [7]\n<:icons_text6:920260975112888330> Moderation [13]\n<:icons_text6:920260975112888330> Guild [8]\n<:icons_text6:920260975112888330> Music [20]\n<:icons_text6:920260975112888330> MusicMisc [9]\n<:icons_text6:920260975112888330> PlaylistSystem [6]\n<:icons_text1:875985515357282316> Searcher [7]! \nSimply add {{USERNAME}} and let your members enjoy your server even more.\n\n<:greendot:900352597528051752> Why is {{USERNAME}} the most advanced?\n{{USERNAME}} averages {{PING}}MS, allowing you to listen to your favorite music without any latency spikes or interruptions.\n<:greendot:900352597528051752>  {{USERNAME}} offers normally paid features for free\nPaid features for free? Why not?\n<:greendot:900352597528051752> What can I do to support {{USERNAME}}?\nAlthough adding our bot to your server is sufficient to support, [donations](https://patreon.com/corddj) are much welcomed and assist us in maintaining and keeping the bot operational. \n\n <:Iconslogo:950417237683105912> The Emojis we're using are from [Icons Join Now](https://discord.gg/fgRAfJcwdD) made by [Danu#4422](https://discord.com/users/537875750955778058)<:Iconslogo:950417237683105912> \n\n <:Icons_rowner:888881202352754688> Owner and <:Icons_rdevelopers:889125916922511420> Developer **[VENOM#9208](https://discord.com/users/493042603181342730)** \n\n We are CordDJ<:corddj:892433982841561088> x SyncMe <:SyncMe:908671315014197278>",
+  "MEMBERS": "Total Members:",
+  "MEMBERS_DESC": "<:icons_text3:875985515948679208> Total {{MEMBERS}}\n<:icons_text6:920260975112888330> Bots {{BOTS}}\n<:icons_text1:875985515357282316> Humans {{USERS}}",
+  "CHANNELS": "Channels:",
+  "CHANNELS_DESC": "<:greendot:900352597528051752> Total {{CHANNELS}} \n<:icons_channel:859424401950113822> {{TEXT}} Text Channel\n<:icons_speaker:860133545544908802> {{VOICE}} Voice Channel\n<:icons_message:860123644545204234> {{DM}} Direct Messages",
+  "PROCESS": "Process:",
+  "PROCESS_DESC": "<:ram:896715172029276180> {{RAM}} MB",
+  "SERVERS": "Servers Count:",
+  "SERVERS_DESC": "<:icons_text3:875985515948679208> {{SERVERS}} Guilds \n<:icons_text1:875985515357282316> {{SHARDS}} Shards",
+  "UPTIME": "<:live2:896715171882500106> Uptime:"
+}

@@ -1,0 +1,23 @@
+{
+    "a_idle": "<:icons_idle:860123644265365514>",
+    "a_offline": "<a:off:896714821792317440>",
+    "a_online": "<a:actibe2:896714821851029544>",
+    "offline": "<:icons_busy:860123643219410965>",
+    "cross": "<:icons_Wrong:859388130636988436>",
+    "slash": "<:icons_splash:859426808461525044>",
+    "checkmark": "<:icons_Correct:859388130411282442>",
+    "idle": "<:idle:903711513490112512>",
+    "online": "<:green:894864559536472064>",
+    "patreon": "<:Patreon:898985934077456394>",
+    "loading": "<a:loading:904034823587385424>",
+    "facebook": "<:Facebook:900411700824653834> ",
+    "downloading": "<:icons_Download:859388129269776384>",
+    "upvote": "<:icons_like:865488228719394876>",
+    "star": "<:Icons_rVIP:888881201199329311>",
+    "downvote": "<:icons_dislike:865488228642848778>",
+    "halfstar": "<:icons_star:859388127880544296>",
+    "spotify": "<:Spotify:900411700786913300> ",
+    "youtube": "<:Youtube:900411700535238678>",
+    "tail": "<:icons_downarrow:860123643300675605>",
+    "head": "<:icons_uparrow:860123643715125279>"
+}

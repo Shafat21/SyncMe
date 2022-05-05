@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "<:greendot:900352597528051752> Gets the uptime of the bot.",
+  "USAGE": "uptime",
+  "DESC": "<a:uptime:905864838880821319> I have been online for: {{TIME}}."
+}

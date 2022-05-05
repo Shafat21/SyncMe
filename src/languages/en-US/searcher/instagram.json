@@ -1,0 +1,13 @@
+{
+  "DESCRIPTION": "Get information on an Instagram account.",
+  "USAGE": "instagram <user>",
+  "UNKNOWN_USER": "Can't Find the User.",
+  "USERNAME": "<:icons_ping:859424401324900352> Username: ",
+  "FULL_NAME": "<:icons_Person:859388129932214292> Full Name: ",
+  "BIOGRAPHY": "<:icons_exclamation:859388127885131796> Biography: ",
+  "POSTS": "<:icons_edit:859388129625374720> Posts: ",
+  "FOLLOWERS": "<:icons_defaultperms:866943907698180137> Followers: ",
+  "FOLLOWING": "<:icons_friends:861852632767528970> Following: ",
+  "PRIVATE": "<:icons_fire:869513411044724746> Private Account: ",
+  "VERIFIED": "<:icons_colorserververified:869529747846234162> Verified Account: "
+}

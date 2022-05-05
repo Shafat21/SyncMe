@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Replies with a random number.",
+  "USAGE": "random <LowNum> <HighNum>",
+  "RESPONSE": "<:icons_box:869507189298040833> Random number: {{NUMBER}}"
+}

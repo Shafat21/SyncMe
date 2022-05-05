@@ -1,0 +1,13 @@
+{
+  "DESCRIPTION": "<:icons_list:860123643710537789> Get information on the server.",
+  "USAGE": "user-info [user]",
+  "USERNAME": "<:icons_Person:859388129932214292> Username",
+  "DISCRIM": "<:icons_channel:859424401950113822> Discriminator",
+  "ROBOT": "<:icons_outage:868122243845206087> Robot",
+  "CREATE": "<:icons_id:860133546102620190> Creation",
+  "STATUS": "<:icons_info:880113401207095346> Status",
+  "ROLE": "<:icons_uparrow:860123643715125279> Highest role",
+  "JOIN": "<:icons_djoin:875754472834469948> Join",
+  "NICK": "<:icons_award:869513411103424563> Nickname",
+  "ROLES": "<:icons_roles:866605189029298197> Roles"
+}

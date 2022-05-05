@@ -1,0 +1,6 @@
+{
+  "DESCRIPTION": "Loops the song or queue.",
+  "USAGE": "loop [queue / song]",
+  "TRACK": "<:icons_loop:861852632893227029> {{TOGGLE}} track repeat.",
+  "QUEUE": "<:icons_loop:861852632893227029> {{TOGGLE}} queue repeat."
+}

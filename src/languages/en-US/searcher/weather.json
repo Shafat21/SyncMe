@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Look up the weather in a certain area.",
+  "USAGE": "weather <location>",
+  "TITLE": "Weather - {{LOC}}",
+  "DESC": "<:icons_search:859424401723883560> Temperature units can may be differ some time",
+  "TEMP": "<:icons_t:866997309828235284> Temperature:",
+  "SKY": "<:icons_s:866997310364581918> Sky Text:",
+  "HUMIDITY": "<:icons_h:866997309601611786> Humidity:",
+  "SPEED": "<:icons_w:866997310365499393> Wind speed:",
+  "TIME": "<:icons_statsdown:867656825478184990> Observation Time:",
+  "DISPLAY": "<:icons_book:867656825545424898> Wind Display:"
+}

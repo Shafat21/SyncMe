@@ -1,0 +1,6 @@
+{
+  "DESCRIPTION": "Create a poll for users to answer.",
+  "USAGE": "poll <question>",
+  "TITLE": "<:icons_announce:859424400456679445> Poll created by {{USER}}",
+  "FOOTER": "React to vote..."
+}

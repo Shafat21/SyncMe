@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "<:greendot:900352597528051752> Gets the status of the bot.",
+  "USAGE": "status",
+  "PONG": "<:greendot:900352597528051752> Pong",
+  "PING": "<:connection2:896715171454677013> Message Ping:",
+  "CLIENT": "<:connection2:896715171454677013> Client API:",
+  "MONGO": "<:connection2:896715171454677013> MongoDB:"
+}

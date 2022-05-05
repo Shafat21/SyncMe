@@ -1,0 +1,7 @@
+{
+  "DESCRIPTION": "Disconnects the bot from the voice channel.",
+  "USAGE": "dc",
+  "LEFT": "<:icons_leave:860487640113217546> I have successfully left the voice channel.",
+  "INACTIVE": "I left <:icons_speaker:860133545544908802> **{{VC}}** because I was inactive for too long.",
+  "KICKED": "The queue has ended as I was kicked from the voice channel"
+}

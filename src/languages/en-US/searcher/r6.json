@@ -1,0 +1,11 @@
+{
+  "DESCRIPTION": "Gets statistics on a Rainbow 6 Account.",
+  "USAGE": "r6 <user> [pc / xbox / ps4] [eu / na / as]",
+  "UNKNOWN_USER": "This username was unable to be found.",
+  "DESC": "Stats for the **{{REGION}}** region on **{{PLATFORM}}**",
+  "GENERAL": "General: ",
+  "GEN_DATA": "**<:icons_upvote:909715386843430933> Level:** {{LVL}} ({{XP}} xp) \n**<:icons_createchannels:866599433574678559> Rank:** {{NAME}} (Max: {{MAX_NAME}}) \n**<:icons_swardx:866599435214389258> MMR:** {{MMR}}",
+  "STATS": "Statistics: ",
+  "STAT_DATA": "**<:icons_w:866997310365499393> Wins:** {{WIN}} \n**<:icons_l:866997309802676244> Losses:** {{LOSS}} \n**<:icons_awardcup:875395223419777085> Win/Loss ratio:** {{WL}} \n**<:icons_dred:875710295866216509> Kills** {{KILL}} \n**<:icons_dyellow:875710296071757824> Deaths:** {{DEATH}} \n**<:icons_dgreen:875710296147255347> K/D Ratio** {{KD}} \n**<:icons_games:860123644402335775> Playtime:** {{TIME}} hours",
+  "TERRORIST": "Terrorist Hunt: "
+}

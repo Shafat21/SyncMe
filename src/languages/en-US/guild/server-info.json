@@ -1,0 +1,17 @@
+{
+  "DESCRIPTION": "Get information on the server.",
+  "USAGE": "server-info",
+  "AUTHOR": "{{NAME}}'s server info",
+  "NAME": "<:globe:896718155416760340> Server name:",
+  "OWNER": "<:owner:896718381884006442> Server owner:",
+  "ID": "<:id:896718193106755634> Server ID:",
+  "CREATED": "<:icons_djoin:875754472834469948> Server created date:",
+  "REGION": "Server region:",
+  "VERIFICATION": "<:icons_discordmod:861852632863211540> Verification level:",
+  "MEMBER": "<:icons_defaultperms:866943907698180137> Member count :",
+  "MEMBER_DESC": "<:icons_list:860123643710537789> **Total {{NUM}}** \n <:icons_bots:865488228789649429> {{BOTS}} bots,\n <:icons_friends:861852632767528970> {{HUMANS}} humans",
+  "FEATURES": "<:icons_view:860123644398534676> Features:",
+  "JOIN": "<:icons_djoin:875754472834469948> Joined",
+  "ROLES": "<:icons_roles:866605189029298197> Roles [{{NUM}}]:",
+  "FOOTER": "Requested by: {{USER}}"
+}

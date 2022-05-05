@@ -1,0 +1,15 @@
+{
+  "DESCRIPTION": "Get information on a Steam account.",
+  "USAGE": "steam <user>",
+  "AUTHOR": "Steam Services | {{NAME}}",
+  "STATE": [
+    "Offline",
+    "Online",
+    "Busy",
+    "Away",
+    "Snooze",
+    "Looking to trade",
+    "Looking to play"
+  ],
+  "DESC": "**<:icons_Person:859388129932214292> Real name:** {{NAME}}\n**<:icons_bright:859388129038303252> Status:** {{STATUS}}\n**<:icons_flag:860123644058664990> Country:** :flag_{{FLAG}}:\n**<:icons_createchannels:866599433574678559> Account Created:** {{TIME}}\n**<:icons_ban:859424400968646676> Bans:** Vac: {{VAC_BANS}}, <:icons_games:860123644402335775> Game: {{GAME_BANS}}\n**<:icons_link:859388126875484180> Link:** [Link to profile]({{URL}})"
+}
