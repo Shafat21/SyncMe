@@ -5,7 +5,7 @@ require('./structures');
 
 const bot = new Client(),
 	{ promisify } = require('util'),
-	readdir = promisify(require('fs').readdir),
+	readdir = promisify(require('fs').readdir), 
 	path = require('path');
 	
 
