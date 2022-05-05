@@ -8,6 +8,10 @@
     "dev": "nodemon index.js",
     "generate-docs": "jsdoc --configure C:/Users/benja/Desktop/Discord-Bot/jsdoc.json --verbose"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyncMe-Discord/SyncMe.git"
+  },
   "engines": {
     "node": ">=16.x",
     "npm": "*"
