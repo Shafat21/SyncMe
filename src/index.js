@@ -10,7 +10,7 @@ const bot = new Client(),
 	
 
 // Load commands
-(async () => {
+(async () => { 
 	// load commands
 	await loadCommands();
 
