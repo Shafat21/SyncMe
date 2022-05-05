@@ -1,6 +1,6 @@
 {
-  "name": "cordj",
-  "version": "12.7.7",
+  "name": "syncme",
+  "version": "12.8",
   "description": "This is my first Discord bot made using [discord.js](https://github.com/discordjs/discord.js)",
   "main": "src/index.js",
   "scripts": {
