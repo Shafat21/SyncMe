@@ -15,11 +15,9 @@ class PAdd extends Command {
 	constructor(bot) {
 		super(bot, {
 			name: 'pladd',
-            aliases: ['pla'],
 			guildOnly: true,
 			dirname: __dirname,
-			aliases: ['playlist-add'],
-			slash: true,
+			aliases: ['playlist-add','pla'],
 			botPermissions: ['SEND_MESSAGES', 'EMBED_LINKS'],
 			description: 'Add a song to the playlist',
 			usage: 'pladd <playlist name> <song>',
@@ -29,7 +27,7 @@ class PAdd extends Command {
 	}
 
 	/**
- 	 * Function for recieving message.
+ 	 * Function for receiving message.
  	 * @param {bot} bot The instantiating client
  	 * @param {message} message The message that ran the command
  	 * @readonly
